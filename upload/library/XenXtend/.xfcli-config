@@ -1,0 +1,8 @@
+{
+	"addon":	{
+		"id":	"XenXtend",
+		"name":	"XenXtend",
+		"namespace":	"XenXtend",
+		"path":	"library/XenXtend/"
+	}
+}
